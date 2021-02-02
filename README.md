@@ -1,2 +1,2 @@
-# Bio381
-Bio381 materials for Spring 2021
+# Bio381 Computational Biology
+This repo is for the University of Vermont Bio381 class materials - Spring 2021
