@@ -52,7 +52,7 @@ Email: lvash@uvm.edu
    
 **Resources:**  
    
-* [Installation instructions](https://gotellilab.github.io/Bio381/CourseMaterials/Installation_Instructions.html)     
+* [Installation instructions](Installation_Instructions.html)     
 * [`tinytex` package](https://yihui.org/tinytex/)   
 
 ------
