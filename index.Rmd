@@ -91,7 +91,8 @@ In Slack, send:
 
 **Resources:**  
 
-* [Lecture Notes: Regular Expressions](https://gotellilab.github.io/Bio381/Lectures/Lecture04_S2021.html)
+* [Lecture Notes: Regular Expressions](https://gotellilab.github.io/Bio381/Lectures/Lecture04_S2021.html)  
+* [Notepad++ Reference](https://npp-user-manual.org/docs/searching/#regular-expressions)  
 
 ------
 <div id='id-section4'/>
