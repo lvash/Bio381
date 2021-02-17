@@ -88,6 +88,7 @@ In Slack, send:
 **Due on your web page:**   
 
 * A link to an `html` document showing the solutions to the regular expression puzzles
+[Here is a link to my fake HW](hwFake.html)
 
 **Resources:**  
 

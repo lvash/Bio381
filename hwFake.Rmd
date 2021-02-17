@@ -1,0 +1,12 @@
+---
+title: "Homework FAKE"
+author: "Lauren Ash"
+date: "Feb 27, 2021"
+output: html_document
+---
+
+1. Remove the notes from 3 rows
+```
+FIND: ,".*
+REPLACE: ,,,,
+```
