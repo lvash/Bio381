@@ -12,7 +12,7 @@ output:
 
 #### TA: Lauren Ash 
 Office: Marsh Life Science 211   
-Office Hours: Tuesday 11-1pm and by appointment    
+Office Hours: Tuesday 11am-1pm and by appointment    
 Email: lvash@uvm.edu   
 
 <img src="Lauren.jpg" width="200" height="200" />
@@ -108,7 +108,8 @@ In Slack, send:
 **Resources:**  
 
 * [Lecture Notes: Markdown](https://gotellilab.github.io/Bio381/Lectures/Lecture05_S2021.html)  
-* [Lecture Notes: LaTeX & Typora](https://gotellilab.github.io/Bio381/Lectures/Lecture06_S2021.html)
+* [Lecture Notes: LaTeX & Typora](https://gotellilab.github.io/Bio381/Lectures/Lecture06_S2021.html)  
+* [Typora `mermaid` flowchart syntax](https://mermaid-js.github.io/mermaid/#/flowchart)  
 
 ------
 <div id='id-section5'/>   
