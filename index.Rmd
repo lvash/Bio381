@@ -32,7 +32,7 @@ Email: lvash@uvm.edu
 * [Week 3 (Feb 17, 2021): Regular Expression Puzzles](#id-section3)
 * [Week 4 (Feb 24, 2021): Typora and LaTeX](#id-section4)  
 **March 2: Progress Report Check in Date** Have Homeworks 3-4 (nothing assigned Week 1 and 2) updated and complete by the end of the day
-* [Week 5: ](#id-section5)
+* [Week 5 (March 3, 2021): Vectors in R](#id-section5)
 * [Week 6: ](#id-section6) 
 * [Week 7: ](#id-section7)   
 **March 24: Progress Report Check in Date** Have Homeworks 5-7 updated and complete by the end of the day
@@ -113,7 +113,19 @@ In Slack, send:
 
 ------
 <div id='id-section5'/>   
-### Week 5: 
+### Week 5: Vectors in R  
+#### March 3, 2021  
+[Assignment Page](https://gotellilab.github.io/Bio381/Homeworks/Homework05_S2021.html) 
+   
+**Due on your web page:**  
+
+* A link to an `html` document showing the solutions to the vector questions  
+
+**Resources:**  
+
+* [Lecture Notes: Vectors Part 1](https://gotellilab.github.io/Bio381/Lectures/Lecture07_S2021.html)  
+* [Lecture Notes: Vectors Part 2](https://gotellilab.github.io/Bio381/Lectures/Lecture08_S2021.html)  
+
 
 ------
 <div id='id-section6'/>   

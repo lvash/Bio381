@@ -54,7 +54,7 @@ Dear X:
 
 \begin{tabular}{@{}l}
 Sincerely yours,\\
-\includegraphics[scale=0.15,width=2in]{MySignature.jpg}\\
+%\includegraphics[scale=0.15,width=2in]{MySignature.jpg}\\
 Nicholas J. Gotelli, PhD\\
 Professor, Department of Biology\\
 University of Vermont\\
