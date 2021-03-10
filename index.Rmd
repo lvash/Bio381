@@ -24,7 +24,10 @@ Email: lvash@uvm.edu
 * [Lecture Videos](https://ngotelli.github.io/Bio381Vids)  
 * [RMarkdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)   
 * [Github website templates](https://jekyllthemes.io/)   
-* [R help](http://stackoverflow.com/questions/tagged/r)   
+* [R help](http://stackoverflow.com/questions/tagged/r)  
+* [`dplyr` Lecture 1 from 2020](Dplyr/Lecture15_S2020.html)  
+* [`dplyr` Lecture 2 from 2020](Dplyr/Lecture16_S2020.html)  
+* [`dplyr` Homework from 2020](Dplyr/Homework08_S2020.html)  
 
 ## Table of contents for Homework Assignments    
 * [Week 1 (Feb 3, 2021): Program Installation ](#id-section1)
