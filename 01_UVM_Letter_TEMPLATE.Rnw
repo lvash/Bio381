@@ -12,6 +12,7 @@
 \setlength{\parskip}{5mm plus 4mm minus 3mm} % for paragraph spacing
 %--------------------------------------
 \begin{document}
+\SweaveOpts{concordance=TRUE}
 \raggedright % toggle off for flush right margin
 \includegraphics[scale=2]{UVMLogoSolid7484.jpg}\\ % delete to remove UVM letterhead
 
@@ -43,7 +44,9 @@ Address 3
 
 Dear X:
 
-\lipsum[1-2]
+text here. 
+
+And text here. 
 
 
 

@@ -33,7 +33,7 @@ Email: lvash@uvm.edu
 * [Week 4 (Feb 24, 2021): Typora and LaTeX](#id-section4)  
 **March 2: Progress Report Check in Date** Have Homeworks 3-4 (nothing assigned Week 1 and 2) updated and complete by the end of the day
 * [Week 5 (March 3, 2021): Vectors in R](#id-section5)
-* [Week 6: ](#id-section6) 
+* [Week 6: (March 10, 2021): Working with matrices, lists, and data frames](#id-section6) 
 * [Week 7: ](#id-section7)   
 **March 24: Progress Report Check in Date** Have Homeworks 5-7 updated and complete by the end of the day
 * [Week 8: ](#id-section8)
@@ -94,6 +94,8 @@ In Slack, send:
 * [Lecture Notes: Regular Expressions](https://gotellilab.github.io/Bio381/Lectures/Lecture04_S2021.html)  
 * [Notepad++ Reference](https://npp-user-manual.org/docs/searching/#regular-expressions)  
 
+**One of many ways to solve:** [Regular Expression Puzzles](Solutions/Regular_Expression_Solutions.html)  
+
 ------
 <div id='id-section4'/>
 ### Week 4: Typora and LaTeX   
@@ -129,7 +131,18 @@ In Slack, send:
 
 ------
 <div id='id-section6'/>   
-### Week 6: 
+### Week 6: Working with matrices, lists, and data frames
+#### March 10, 2021  
+[Assignment Page](https://gotellilab.github.io/Bio381/Homeworks/Homework06_S2021.html) 
+   
+**Due on your web page:**  
+
+* A link to an `html` document showing the solutions to the assignment questions  
+
+**Resources:**  
+
+* [Lecture Notes: Matrices, Lists, & Data Frames](https://gotellilab.github.io/Bio381/Lectures/Lecture09_S2021.html)  
+
 
 ------
 <div id='id-section8'/>
