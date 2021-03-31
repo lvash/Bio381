@@ -39,7 +39,7 @@ Email: lvash@uvm.edu
 * [Week 6: (March 10, 2021): Working with matrices, lists, and data frames](#id-section6) 
 * [Week 7: (March 17, 2021): Simulating Distributions](#id-section7)   
 **March 24: Progress Report Check in Date** Have Homeworks 5-7 updated and complete by the end of the day
-* [Week 8: ](#id-section8)
+* [Week 8 (March 31, 2021): Creating Fake Data Sets](#id-section8)
 * [Week 9: ](#id-section9)  
 * [Week 10: ](#id-section10)   
 **April 15: Progress Report Check in Date** Have Homeworks 8-10 updated and complete by the end of the day
@@ -163,7 +163,18 @@ In Slack, send:
 
 ------
 <div id='id-section8'/>
-### Week 8: 
+### Week 8: Creating Fake Data Sets
+#### March 31, 2021  
+[Assignment Page](https://gotellilab.github.io/Bio381/Homeworks/Homework08_S2021.html) 
+   
+**Due on your web page:**  
+
+* A link to an `html` document showing your work through the assignment   
+
+**Resources:**  
+
+* [Lecture Notes: Experimental Design](https://gotellilab.github.io/Bio381/Lectures/Lecture12_S2021.html)  
+
 
 ------
 <div id='id-section9'/>
