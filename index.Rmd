@@ -40,8 +40,8 @@ Email: lvash@uvm.edu
 * [Week 7: (March 17, 2021): Simulating Distributions](#id-section7)   
 **March 24: Progress Report Check in Date** Have Homeworks 5-7 updated and complete by the end of the day
 * [Week 8 (March 31, 2021): Creating Fake Data Sets](#id-section8)
-* [Week 9: ](#id-section9)  
-* [Week 10: ](#id-section10)   
+* [Week 9 (April 7, 2021): Organizing Code With Structured Programming](#id-section9)  
+* [Week 10 (April 14, 2021): For loops and randomization tests](#id-section10)   
 **April 15: Progress Report Check in Date** Have Homeworks 8-10 updated and complete by the end of the day
 * [Week 11: ](#id-section11)  
 * [Week 12: ](#id-section12)  
@@ -178,11 +178,34 @@ In Slack, send:
 
 ------
 <div id='id-section9'/>
-### Week 9: 
+### Week 9: Organizing Code With Structured Programming
+#### April 7, 2021
+[Assignment Page](https://gotellilab.github.io/Bio381/Homeworks/Homework09_S2021.html) 
+   
+**Due on your web page:**  
+
+* A link to an `html` document showing your work through the assignment   
+
+**Resources:**  
+
+* [Lecture Notes: Structured Programming](https://gotellilab.github.io/Bio381/Lectures/Lecture14_S2021.html)  
+* [Lecture Notes: Structured Programming II](https://gotellilab.github.io/Bio381/Lectures/Lecture15_S2021.html)
 
 ------
 <div id='id-section10'/>
-### Week 10: 
+### Week 10: For loops and randomization tests
+#### April 14, 2021
+[Assignment Page](https://gotellilab.github.io/Bio381/Homeworks/Homework10_S2021.html) 
+   
+**Due on your web page:**  
+
+* A link to an `html` document showing your work through the assignment   
+
+**Resources:**  
+
+* [Lecture Notes: Control Structures II](https://gotellilab.github.io/Bio381/Lectures/Lecture17_S2021.html)
+* [Control Structures III](https://gotellilab.github.io/Bio381/Lectures/Lecture18_S2021.html)  
+* [Randomization Tests](https://gotellilab.github.io/Bio381/Lectures/Lecture19_S2021.html)  
 
 ------
 <div id='id-section11'/>
