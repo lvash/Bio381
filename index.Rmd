@@ -43,7 +43,7 @@ Email: lvash@uvm.edu
 * [Week 9 (April 7, 2021): Organizing Code With Structured Programming](#id-section9)  
 * [Week 10 (April 14, 2021): For loops and randomization tests](#id-section10)   
 **April 15: Progress Report Check in Date** Have Homeworks 8-10 updated and complete by the end of the day
-* [Week 11: ](#id-section11)  
+* [Week 11 (April 21, 2021): Batch Processing](#id-section11)  
 * [Week 12: ](#id-section12)  
 
 
@@ -209,7 +209,17 @@ In Slack, send:
 
 ------
 <div id='id-section11'/>
-### Week 11: 
+### Week 11: Batch Processing
+#### April 21, 2021
+[Assignment Page](https://gotellilab.github.io/Bio381/Homeworks/Homework11_S2021.html) 
+   
+**Due on your web page:**  
+
+* A link to an `html` document showing your work through the assignment   
+
+**Resources:**  
+
+* [Lecture Notes: Batch Processing](https://gotellilab.github.io/Bio381/Lectures/Lecture20_S2021)
 
 ------
 <div id='id-section12'/>
