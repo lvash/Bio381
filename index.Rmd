@@ -235,6 +235,7 @@ In Slack, send:
 
 * [Lecture Notes: ggplot I](https://gotellilab.github.io/Bio381/Lectures/Lecture21_S2021.html)  
 * [Lecture Notes: ggplot II](https://gotellilab.github.io/Bio381/Lectures/Lecture22_S2021.html)  
-* [Lecture Notes: ggplot III](https://gotellilab.github.io/Bio381/Lectures/Lecture23_S2021.html)
+* [Lecture Notes: ggplot III](https://gotellilab.github.io/Bio381/Lectures/Lecture23_S2021.html)  
+* [dplyr 2021](dplyr_2021.html)
 
 
