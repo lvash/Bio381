@@ -44,7 +44,7 @@ Email: lvash@uvm.edu
 * [Week 10 (April 14, 2021): For loops and randomization tests](#id-section10)   
 **April 15: Progress Report Check in Date** Have Homeworks 8-10 updated and complete by the end of the day
 * [Week 11 (April 21, 2021): Batch Processing](#id-section11)  
-* [Week 12: ](#id-section12)  
+* [Week 12 (April 28, 2021): ggplot](#id-section12)  
 
 
 ## Lab Assignments and Notes
@@ -223,4 +223,18 @@ In Slack, send:
 
 ------
 <div id='id-section12'/>
-### Week 12: 
+### Week 12: `ggplot`
+#### April 28, 2021
+[Assignment Page](https://gotellilab.github.io/Bio381/Homeworks/Homework12_S2021.html) 
+   
+**Due on your web page:**  
+
+* A link to an `html` document showing your plots   
+
+**Resources:**  
+
+* [Lecture Notes: ggplot I](https://gotellilab.github.io/Bio381/Lectures/Lecture21_S2021.html)  
+* [Lecture Notes: ggplot II](https://gotellilab.github.io/Bio381/Lectures/Lecture22_S2021.html)  
+* [Lecture Notes: ggplot III](https://gotellilab.github.io/Bio381/Lectures/Lecture23_S2021.html)
+
+
